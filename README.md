@@ -19,7 +19,7 @@
 ### 🎯 Latest Projects  
 - 🚀 [DashBoard](https://balajibalu19.github.io/dashboard-project/)  
 - 🏥 [User DashBoard](https://balajibalu19.github.io/Ajackus-Dashboard/)  
-- 📦 [E-Commerce Website](https://github.com/DoppaniBalaji/ecommerce)
+- 📦 [E-Commerce Website](https://balajibalu19.github.io/react-product-catalog/)
 
 ---
 **Let's Connect!**  
