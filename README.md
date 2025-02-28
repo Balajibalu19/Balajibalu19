@@ -17,7 +17,7 @@
 
 ---
 ### 🎯 Latest Projects  
-- 🚀 [Task Management App](https://github.com/DoppaniBalaji/task-manager)  
+- 🚀 [DashBoard](https://balajibalu19.github.io/dashboard-project/)  
 - 🏥 [Doctor Appointment System](https://github.com/DoppaniBalaji/doctor-app)  
 - 📦 [E-Commerce Website](https://github.com/DoppaniBalaji/ecommerce)
 
