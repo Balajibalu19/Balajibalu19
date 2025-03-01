@@ -1,26 +1,39 @@
-# Hi there, I'm Balaji! 👋
-
-## 🚀 Full Stack Developer | JavaScript | React | Next.js
-
-🌟 Passionate about building modern web applications  
-🔭 Currently working on **Doctor Appointment App**  
-📫 Reach me at [balajidoppani@gmail.com](mailto:balajidoppani@gmail.com)  
-💻 Check out my projects below 👇  
+<h1 align="center">Hi there, I'm Balaji 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Web+Apps;Love+to+Code+%26+Solve+Problems" />
+</p>
 
 ---
-### 🛠 Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-
----
-### 🎯 Latest Projects  
-- 🚀 [DashBoard](https://balajibalu19.github.io/dashboard-project/)  
-- 🏥 [User DashBoard](https://balajibalu19.github.io/Ajackus-Dashboard/)  
-- 📦 [E-Commerce Website](https://balajibalu19.github.io/react-product-catalog/)
+### 💻 **About Me**  
+🔹 Full-Stack Developer | Passionate about building scalable web applications.  
+🔹 Tech Stack: `React.js`, `Next.js`, `Node.js`, `MongoDB`, `TypeScript`, `Tailwind CSS`  
+🔹 Currently working on a **Doctor Booking App** and exploring **system design concepts**.  
+🔹 Open to **collaborations & freelance projects**!  
 
 ---
-**Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doppani-balaji)  
+
+### 🚀 **Tech Stack**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,git,github,bootstrap" />
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DoppaniBalaji&show_icons=true&theme=radical" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoppaniBalaji&theme=radical" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoppaniBalaji&layout=compact&theme=radical" height="150px" />
+</p>
+
+---
+
+### 🌍 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=react)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:balajidoppani@gmail.com)
+
+---
+
+💡 *"Code. Debug. Repeat."* 🚀  
